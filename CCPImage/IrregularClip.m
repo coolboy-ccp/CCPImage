@@ -1,28 +1,29 @@
 //
-//  ViewController.m
+//  IrregularClip.m
 //  CCPImage
 //
-//  Created by liqunfei on 16/8/23.
+//  Created by liqunfei on 16/8/24.
 //  Copyright © 2016年 chuchengpeng. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "IrregularClip.h"
 
-@interface ViewController ()
+@interface IrregularClip ()
 
 @end
 
-@implementation ViewController
+@implementation IrregularClip
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    // Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
 
 
 @end
