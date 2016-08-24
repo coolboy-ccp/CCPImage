@@ -1,5 +1,5 @@
 //
-//  IrregularClip.h
+//  IrregularClipView.h
 //  CCPImage
 //
 //  Created by liqunfei on 16/8/24.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface IrregularClip : UIViewController
+@interface IrregularClipView : UIView
 
 @end

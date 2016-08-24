@@ -21,7 +21,7 @@
 		00F917FC1D6D4E37005D58E2 /* CurvePart.m in Sources */ = {isa = PBXBuildFile; fileRef = 00F917FB1D6D4E37005D58E2 /* CurvePart.m */; };
 		00F917FF1D6D7704005D58E2 /* ScrollScale.m in Sources */ = {isa = PBXBuildFile; fileRef = 00F917FE1D6D7704005D58E2 /* ScrollScale.m */; };
 		00F918021D6D7A16005D58E2 /* PinScale.m in Sources */ = {isa = PBXBuildFile; fileRef = 00F918011D6D7A16005D58E2 /* PinScale.m */; };
-		00F918051D6D814F005D58E2 /* IrregularClip.m in Sources */ = {isa = PBXBuildFile; fileRef = 00F918041D6D814F005D58E2 /* IrregularClip.m */; };
+		00F918081D6D8B14005D58E2 /* IrregularClipView.m in Sources */ = {isa = PBXBuildFile; fileRef = 00F918071D6D8B14005D58E2 /* IrregularClipView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,8 +49,8 @@
 		00F917FE1D6D7704005D58E2 /* ScrollScale.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScrollScale.m; sourceTree = "<group>"; };
 		00F918001D6D7A16005D58E2 /* PinScale.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PinScale.h; sourceTree = "<group>"; };
 		00F918011D6D7A16005D58E2 /* PinScale.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PinScale.m; sourceTree = "<group>"; };
-		00F918031D6D814F005D58E2 /* IrregularClip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IrregularClip.h; sourceTree = "<group>"; };
-		00F918041D6D814F005D58E2 /* IrregularClip.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IrregularClip.m; sourceTree = "<group>"; };
+		00F918061D6D8B14005D58E2 /* IrregularClipView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IrregularClipView.h; sourceTree = "<group>"; };
+		00F918071D6D8B14005D58E2 /* IrregularClipView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IrregularClipView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,8 +99,8 @@
 				00F917FE1D6D7704005D58E2 /* ScrollScale.m */,
 				00F918001D6D7A16005D58E2 /* PinScale.h */,
 				00F918011D6D7A16005D58E2 /* PinScale.m */,
-				00F918031D6D814F005D58E2 /* IrregularClip.h */,
-				00F918041D6D814F005D58E2 /* IrregularClip.m */,
+				00F918061D6D8B14005D58E2 /* IrregularClipView.h */,
+				00F918071D6D8B14005D58E2 /* IrregularClipView.m */,
 				002C43FE1D6C444000EE363D /* Main.storyboard */,
 				002C44011D6C444000EE363D /* Assets.xcassets */,
 				002C44031D6C444000EE363D /* LaunchScreen.storyboard */,
@@ -197,10 +197,10 @@
 				002C44171D6C4EB100EE363D /* ClipImage.m in Sources */,
 				002C44141D6C4AA300EE363D /* CombineImage.m in Sources */,
 				00F917F91D6D3E5E005D58E2 /* PartWithBeeline.m in Sources */,
-				00F918051D6D814F005D58E2 /* IrregularClip.m in Sources */,
 				002C43FA1D6C444000EE363D /* AppDelegate.m in Sources */,
 				00F918021D6D7A16005D58E2 /* PinScale.m in Sources */,
 				002C43F71D6C444000EE363D /* main.m in Sources */,
+				00F918081D6D8B14005D58E2 /* IrregularClipView.m in Sources */,
 				00F917FF1D6D7704005D58E2 /* ScrollScale.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
